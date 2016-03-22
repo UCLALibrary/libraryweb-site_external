@@ -1,7 +1,0 @@
-total 52
--rw-r--r--. 1 akohler users     0 Mar 22 15:00 foo.txt
--rw-r--r--. 1 akohler users  1127 Mar 22 14:59 icon-search-hover.png
--rw-r--r--. 1 akohler users  1132 Mar 22 14:59 icon-search.png
--rw-r--r--. 1 akohler users  2992 Mar 22 14:59 logo-colophon.png
--rw-r--r--. 1 akohler users 27117 Mar 22 14:59 mol-bg.jpg
--rw-r--r--. 1 akohler users  8925 Mar 22 14:59 ucla_sfx.css
