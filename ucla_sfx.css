@@ -1,0 +1,96 @@
+/* Effective stylesheet produced by snapshot save */
+audio:not([controls]) { display: none; height: 0px; }
+html { font-family: sans-serif; }
+body { margin: 0px; }
+a { background: none repeat scroll 0% 0% transparent; }
+a:active, a:hover { outline: 0px none; }
+h1 { font-size: 2em; margin: 0.67em 0px; }
+img { border: 0px none; }
+svg:not(:root) { overflow: hidden; }
+button, input, optgroup, select, textarea { color: inherit; font: inherit; margin: 0px; }
+button, html input[type="button"], input[type="reset"], input[type="submit"] { cursor: pointer; }
+button::-moz-focus-inner, input::-moz-focus-inner { border: 0px none; padding: 0px; }
+
+*, *:after, *:before { box-sizing: border-box; }
+
+@media �screen {
+  img { width: auto; }
+}
+
+a { color: rgb(50, 131, 190); text-decoration: none; }
+a:hover { text-decoration: underline; }
+[class^="icon-"]:before, [class*=" icon-"]:before { vertical-align: -17%; }
+.l-colophon-wrapper { background: none repeat scroll 0% 0% rgb(236, 236, 236); color: rgb(51, 51, 51); padding: 50px 0px; }
+.l-colophon { font-size: 12px; }
+.l-colophon a, .l-colophon a:visited { color: rgb(50, 131, 190); font-weight: bold; }
+.l-colophon a:hover, .l-colophon a:active, .l-colophon a:focus { text-decoration: underline; }
+.l-colophon .menu { list-style: none outside none; margin: 0px; padding: 0px; }
+.l-colophon .menu .leaf { margin: 0.5em 0px; list-style: none outside none; }
+.l-colophon h1, .l-colophon h2, .l-colophon h3 { margin-top: 0px; }
+.l-region--colophon-first { border-right: 1px solid rgb(162, 162, 162); }
+.l-region--colophon-second, .l-region--colophon-third { padding-top: 2.6em; }
+.l-footer-wrapper { background: none repeat scroll 0% 0% rgb(50, 131, 190); color: white; font-size: 12px; }
+.l-region--footer { padding: 22px; text-align: center; }
+.l-footer ul.menu { list-style-type: none; }
+.l-footer ul.menu, .l-footer ul.menu li { margin: 0px; padding: 0px; display: inline; }
+.l-header-wrapper { background: none repeat scroll 0% 0% rgb(50, 131, 190); font-size: 13px; font-weight: bold; padding: 0px; }
+.l-header a, .l-header a:visited { color: white; }
+.l-header a:hover, .l-header a:active, .l-header a:focus { text-decoration: underline; }
+.l-header .menu { margin: 0px; padding: 0px; border: 0px none; list-style: none outside none; }
+.l-header .menu:before, .l-header .menu:after { content: "."; display: block; height: 0px; overflow: hidden; }
+.l-header .menu:after { clear: both; }
+.l-header .menu li { list-style-image: none; list-style-type: none; margin-left: 0px; white-space: nowrap; display: inline; float: left; padding-left: 4px; padding-right: 4px; }
+.l-header .menu li:first-child, .l-header .menu li.first { padding-left: 0px; }
+.l-header .menu li:last-child { padding-right: 0px; }
+.l-header .menu li.last { padding-right: 0px; }
+.l-header .menu li { margin: 0px; list-style-image: none; list-style-type: none; }
+.l-header .menu li a { padding-right: 4px; }
+.l-header .menu li:after { content: " | "; }
+.l-header .menu li.last:after { content: ""; }
+.l-region--branding { padding-top: 14px; }
+.l-region--header { text-align: right; }
+.l-region--header .panel-pane { display: inline-block; vertical-align: middle; margin-left: 12px; margin-right: -4px; }
+.l-main-wrapper { overflow: hidden; }
+.l-main-wrapper .l-main { background: none repeat scroll 0% 0% rgb(255, 255, 255); padding-bottom: 25px; }
+.l-navigation-wrapper { background: none repeat scroll 0% 0% rgb(215, 217, 218); font-size: 18px; }
+.l-navigation ul.primary-links { margin: 0px; padding: 0px; border: 0px none; list-style: none outside none; display: table; width: 100%; }
+.l-navigation ul.primary-links:before, .l-navigation ul.primary-links:after { content: "."; display: block; height: 0px; overflow: hidden; }
+.l-navigation ul.primary-links:after { clear: both; }
+.l-navigation ul.primary-links li { list-style-image: none; list-style-type: none; margin-left: 0px; white-space: nowrap; display: inline; float: left; padding-left: 4px; padding-right: 4px; }
+.l-navigation ul.primary-links li:first-child, .l-navigation ul.primary-links li.first { padding-left: 0px; }
+.l-navigation ul.primary-links li:last-child { padding-right: 0px; }
+.l-navigation ul.primary-links li.last { padding-right: 0px; }
+.l-navigation ul.primary-links > li { display: table-cell; float: none; padding: 15px 8px; margin: 0px 1px 0px 0px; list-style-image: none; list-style-type: none; text-align: center; }
+.l-navigation ul.primary-links > li a { line-height: 1.2em; }
+.l-navigation ul.primary-links > li a, .l-navigation ul.primary-links > li a:visited { color: rgb(51, 51, 51); }
+.l-navigation ul.primary-links > li.active-trail, .l-navigation ul.primary-links > li.active-trail:hover { background: none repeat scroll 0% 0% rgb(239, 243, 244); color: rgb(50, 131, 190); text-decoration: none; }
+.l-navigation ul.primary-links > li a:hover, .l-navigation ul.primary-links > li a:active, .l-navigation ul.primary-links > li a:focus { color: black; text-decoration: underline; }
+.l-navigation ul.primary-links > li.active-trail > a:hover {  }
+.l-navigation ul.primary-links > li.last { padding-right: 6px; }
+.l-page { background: url("urn:download-error:http://uclalibrary.github.io/libraryweb-site_external/images/mol-bg.jpg") repeat scroll 0px 0px transparent; }
+.l-region--top .bean-showcase .field--name-field-showcase > .field__items > .field__item:nth-child(4n+4) { margin: 0px; }
+.l-region--top .bean-showcase .field--name-field-showcase > .field__items > .field__item:nth-child(4n+5) { clear: left; }
+.l-region--top .bean-showcase .field--name-field-showcase > .field__items > .field__item:nth-child(-n+4) { margin-top: 0px; }
+.field--name-field-gallery-images .field__item:nth-child(n+5) { display: none; }
+.pane-ask-a-librarian { border-radius: 3px; background: none repeat scroll 0% 0% rgb(253, 185, 48); padding: 0.4em 0.5em 0.6em; position: relative; }
+.pane-ask-a-librarian p { margin: 0px; padding: 0px; }
+.pane-ask-a-librarian a { color: white; text-shadow: 0px 0.04em 0.02em rgb(141, 110, 45); }
+.pane-ask-a-librarian a, .pane-ask-a-librarian a:hover, .pane-ask-a-librarian a:active, .pane-ask-a-librarian a:focus { text-decoration: none; }
+.pane-ask-a-librarian a span { font-size: 16px; }
+.pane-ask-a-librarian:before { content: " "; position: absolute; top: 100%; left: 1.5em; width: 0px; height: 0px; border-style: solid; border-color: transparent rgb(253, 185, 48); border-width: 0px 0.7em 0.7em 0px; }
+.pane-bean-colophon-about h2 { font-weight: bold; font-size: 26px; line-height: 30px; }
+.pane-bean-colophon-about h2 span { display: inline-block; text-indent: -119988px; overflow: hidden; text-align: left; background-image: url("urn:download-error:http://uclalibrary.github.io/libraryweb-site_external/images/logo-colophon.png"); background-repeat: no-repeat; background-position: 50% 50%; width: 150px; height: 30px; vertical-align: bottom; }
+.pane-bean-living-library-gallery .field__item:nth-child(4) { margin: 0px; }
+.header-search-form-wrapper .form-type-textfield { margin: 1em -4px 1.3em 0px; display: inline-block; }
+.header-search-form-wrapper .form-actions { margin: 1em 0px 1.3em; display: inline-block; }
+.header-search-form-wrapper .form-text { border: medium none; background: none repeat scroll 0% 0% rgb(255, 255, 255); padding: 0.5em 0.6em 0.4em; font-weight: 100; }
+.header-search-form-wrapper .form-submit { border: medium none; -moz-appearance: none; margin: 0px; padding: 0.5em 0.6em 0.4em; background: url("urn:download-error:http://uclalibrary.github.io/libraryweb-site_external/images/icon-search.png") no-repeat scroll 50% 50% white; text-decoration: none; font-weight: 100; text-indent: -999em; width: 30px; }
+.header-search-form-wrapper .form-submit:hover, .header-search-form-wrapper .form-submit:active, .header-search-form-wrapper .form-submit:focus { background-image: url("urn:download-error:http://uclalibrary.github.io/libraryweb-site_external/images/icon-search-hover.png"); }
+.l-page { min-width: 768px; }
+.l-header, .l-navigation, .l-main, .l-highlighted, .l-colophon, .l-footer { padding-left: 20px; padding-right: 20px; margin-left: auto; margin-right: auto; max-width: 1004px; }
+.l-header:after, .l-navigation:after, .l-main:after, .l-highlighted:after, .l-colophon:after, .l-footer:after { content: ""; display: table; clear: both; }
+.l-region--branding { width: 17.0213%; float: left; margin-right: 2.12766%; display: inline; }
+.l-region--header { width: 80.8511%; float: right; margin-right: 0px; display: inline; }
+.l-region--colophon-first { width: 62.5%; float: left; margin-right: 0%; display: inline; padding-left: 0%; padding-right: 6.25%; }
+.l-region--colophon-second { width: 18.75%; float: left; margin-right: 0%; display: inline; padding-left: 3.75%; padding-right: 0%; }
+.l-region--colophon-third { width: 18.75%; float: right; margin-right: 0px; display: inline; padding-left: 3.75%; padding-right: 0%; }
