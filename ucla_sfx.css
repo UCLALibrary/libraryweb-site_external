@@ -29,11 +29,11 @@ a:hover { text-decoration: underline; }
 .l-colophon h1, .l-colophon h2, .l-colophon h3 { margin-top: 0px; }
 .l-region--colophon-first { border-right: 1px solid rgb(162, 162, 162); }
 .l-region--colophon-second, .l-region--colophon-third { padding-top: 2.6em; }
-.l-footer-wrapper { background: none repeat scroll 0% 0% rgb(50, 131, 190); color: white; font-size: 12px; }
+.l-footer-wrapper { background: none repeat scroll 0% 0% rgb(30, 75, 135); color: white; font-size: 12px; }
 .l-region--footer { padding: 22px; text-align: center; }
 .l-footer ul.menu { list-style-type: none; }
 .l-footer ul.menu, .l-footer ul.menu li { margin: 0px; padding: 0px; display: inline; }
-.l-header-wrapper { background: none repeat scroll 0% 0% rgb(50, 131, 190); font-size: 13px; font-weight: bold; padding: 0px; }
+.l-header-wrapper { background: none repeat scroll 0% 0% rgb(30, 75, 135); font-size: 13px; font-weight: bold; padding: 0px; }
 .l-header a, .l-header a:visited { color: white; }
 .l-header a:hover, .l-header a:active, .l-header a:focus { text-decoration: underline; }
 .l-header .menu { margin: 0px; padding: 0px; border: 0px none; list-style: none outside none; }
