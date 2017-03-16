@@ -72,9 +72,9 @@ a:hover { text-decoration: underline; }
 .l-region--top .bean-showcase .field--name-field-showcase > .field__items > .field__item:nth-child(4n+5) { clear: left; }
 .l-region--top .bean-showcase .field--name-field-showcase > .field__items > .field__item:nth-child(-n+4) { margin-top: 0px; }
 .field--name-field-gallery-images .field__item:nth-child(n+5) { display: none; }
-.pane-ask-a-librarian { border-radius: 3px; background: none repeat scroll 0% 0% rgb(253, 185, 48); padding: 0.4em 0.5em 0.6em; position: relative; }
+.pane-ask-a-librarian { border-radius: 3px; background: #ffe800; padding: 0.4em 0.5em 0.6em; position: relative; }
 .pane-ask-a-librarian p { margin: 0px; padding: 0px; }
-.pane-ask-a-librarian a { color: white; text-shadow: 0px 0.04em 0.02em rgb(141, 110, 45); }
+.pane-ask-a-librarian a { color: #2d2f35; text-shadow: 0px 0.04em 0.02em rgb(141, 110, 45); }
 .pane-ask-a-librarian a, .pane-ask-a-librarian a:hover, .pane-ask-a-librarian a:active, .pane-ask-a-librarian a:focus { text-decoration: none; }
 .pane-ask-a-librarian a span { font-size: 16px; }
 .pane-ask-a-librarian:before { content: " "; position: absolute; top: 100%; left: 1.5em; width: 0px; height: 0px; border-style: solid; border-color: transparent rgb(253, 185, 48); border-width: 0px 0.7em 0.7em 0px; }
